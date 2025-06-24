@@ -41,9 +41,12 @@ The dataset used is the **PIMA Indians Diabetes Database**, which includes the f
 ### 📌 Technologies Used
 
 * Python
+
 * Pandas, NumPy
 * Seaborn, Matplotlib
 * Scikit-learn
 
 ![Screenshot 2025-06-24 094922](https://github.com/user-attachments/assets/d9541c41-1185-44c7-b550-2fc9d2f9ebff)
 ![Screenshot 2025-06-24 094937](https://github.com/user-attachments/assets/c397c057-2aff-49a8-98cb-2a94a49fc487)
+![Screenshot 2025-06-24 100602](https://github.com/user-attachments/assets/c6b643c1-ad72-4e23-9a00-54ccb4036685)
+![Screenshot 2025-06-24 100553](https://github.com/user-attachments/assets/53aaf8b3-7d3c-4003-b48e-c3f2189c8a27)
